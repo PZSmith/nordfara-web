@@ -90,6 +90,8 @@
   </url>
   <url>
     <loc>https://nordfara.com/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nordfara.com/about"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://nordfara.com/es/acerca-de"/>
     <lastmod>2026-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -162,6 +164,14 @@
   </url>
   <url>
     <loc>https://nordfara.com/es/defensa-de-deportacion</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nordfara.com/es/acerca-de</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nordfara.com/about"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://nordfara.com/es/acerca-de"/>
     <lastmod>2026-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
