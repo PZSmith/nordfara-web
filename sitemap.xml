@@ -1,13 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://nordfara.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nordfara.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://nordfara.com/es"/>
     <lastmod>2026-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://nordfara.com/global-mobility</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nordfara.com/global-mobility"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://nordfara.com/es/visas-de-trabajo"/>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nordfara.com/h-1b-visa</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nordfara.com/l-1-visa</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nordfara.com/e-1-e-2-visa</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nordfara.com/tn-visa</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nordfara.com/eb-permanent-residence</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -20,6 +54,36 @@
   </url>
   <url>
     <loc>https://nordfara.com/europe-relocation</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nordfara.com/netherlands-daft</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nordfara.com/family-immigration</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nordfara.com/family-immigration"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://nordfara.com/es/inmigracion-familiar"/>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nordfara.com/marriage-green-card</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nordfara.com/marriage-green-card"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://nordfara.com/es/residencia-green-card"/>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nordfara.com/citizenship</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nordfara.com/citizenship"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://nordfara.com/es/ciudadania"/>
     <lastmod>2026-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -38,6 +102,74 @@
   </url>
   <url>
     <loc>https://nordfara.com/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nordfara.com/contact"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://nordfara.com/es/contacto"/>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nordfara.com/es</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nordfara.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://nordfara.com/es"/>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://nordfara.com/es/el-viaje-al-norte</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nordfara.com/es/inmigracion-familiar</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nordfara.com/family-immigration"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://nordfara.com/es/inmigracion-familiar"/>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nordfara.com/es/residencia-green-card</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nordfara.com/marriage-green-card"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://nordfara.com/es/residencia-green-card"/>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nordfara.com/es/ciudadania</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nordfara.com/citizenship"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://nordfara.com/es/ciudadania"/>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nordfara.com/es/visas-de-trabajo</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nordfara.com/global-mobility"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://nordfara.com/es/visas-de-trabajo"/>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nordfara.com/es/asilo</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nordfara.com/es/defensa-de-deportacion</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nordfara.com/es/contacto</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://nordfara.com/contact"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://nordfara.com/es/contacto"/>
     <lastmod>2026-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
